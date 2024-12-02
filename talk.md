@@ -3,8 +3,6 @@
 </script>
 # Linear Algebra in Python
 
-## Olav Vahtras
-
 Computational Python
 
 ---
